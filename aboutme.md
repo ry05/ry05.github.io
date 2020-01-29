@@ -10,6 +10,6 @@ Like most 21 years, I too am in the process of carving out a niche for myself in
 
 ### What is Data Science to me?
 
-The reason why I want to be a data scientist is because *I want to generate value for society in **any way** that's possible*. And, Data Science precisely would help me do that. I also created a definition of Data Science(Academia, please don't frown upon me) to keep me motivated throughout this journey, so that *I would never forget the purpose with which I have embarked on this journey* 
+The reason why I want to be a data scientist is because *I want to generate value for society in **any way** that's possible*. And, Data Science precisely would help me do that. I also created a definition of Data Science(Academia, please don't frown upon me) to keep me motivated throughout this journey, so that *I would never forget the purpose with which I have embarked on this journey.* 
 
 > Data Science to me, is the most far-reaching and mercurial of all disciplines ever created, cutting across multiple disciplines and providing people with a chance to make a difference in their respective fields by understanding uninspiring text and numbers(what we call data).
