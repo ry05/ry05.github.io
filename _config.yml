@@ -22,7 +22,7 @@ description: My Portfolio Website where I showcase my projects and write about t
 navbar-links:
   My Data Journey: ""
   About Me: "aboutme"
-  Projects: ""
+  Projects: "projects"
   Persp the Chimp: ""
   CV: ""
 
