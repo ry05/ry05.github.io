@@ -6,6 +6,9 @@
 - Wall crack detection
 - Chocolate Bar Analysis
 
+### Intro to the Page
+This is something you should work on
+
 ### Project Structure
 In this page, you can find all the data-related projects that I have worked on. I have organized each project as follows :
 - The Abstract OR The Project Overview
