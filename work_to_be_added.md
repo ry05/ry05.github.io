@@ -6,5 +6,13 @@
 - Wall crack detection
 - Chocolate Bar Analysis
 
+### Project Structure
+In this page, you can find all the data-related projects that I have worked on. I have organized each project as follows :
+- The Abstract OR The Project Overview
+- The Project Writeup
+- The Code Repository
+- The Presentation Content (If any)
+- Live Demo (If any)
+
 # Prospective Sections to be Added
 - 5 Days of Skill Building
