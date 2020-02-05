@@ -13,6 +13,8 @@ In this page, you can find all the data-related projects that I have worked on. 
 
 ## Leveraging Data for Social Good — A Practical Example
 
+![Data Science for Social Good](https://github.com/ry05/Data-Graphic-Content/blob/master/Data%20Science%20for%20Social%20Good.png)
+
 **The Project Overview :**
 This project is more of a story than a project. It's a story of how five 2nd year undergraduates studying various disciplines came together, put the differences in their thoughts aside, followed a practical methodology and helped over 300 tenants at a rural North Indian village that was so underprivileged that it did not even have a spot for it on the state's map. 
 
