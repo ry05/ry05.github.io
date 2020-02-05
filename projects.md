@@ -21,8 +21,8 @@ This project is more of a story than a project. It's a story of how five 2nd yea
 **The Link to the Project :**
 I have already covered this project in detail via an article in Medium and the code is available on my Github account. So, I shall leave that out here in case it interests my readers.
 
-- Medium Article : http://bit.ly/village-data-analysis
-- Github Repository : https://github.com/ry05/Live-in-Labs-Analysis
+- [Medium Article](http://bit.ly/village-data-analysis)
+- [Github Repository](https://github.com/ry05/Live-in-Labs-Analysis)
 
 
 ## Stay Tuned for More...
