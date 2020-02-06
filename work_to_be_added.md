@@ -4,7 +4,6 @@
 # Projects
 - Crime Hotspot
 - Wall crack detection
-- Chocolate Bar Analysis
 
 ### Intro to the Page
 This is something you should work on
