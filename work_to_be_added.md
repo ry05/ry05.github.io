@@ -18,6 +18,7 @@ In this page, you can find all the data-related projects that I have worked on. 
 
 # Prospective Sections to be Added
 - 5 Days of Skill Building
+- Articles on Medium (Also, maybe a link to your Medium Profile)
 
 ### Get those posts up and running
 - _posts folder needs to be made
