@@ -20,7 +20,7 @@ description: Portfolio Website
 
 # List of links in the navigation bar
 navbar-links:
-  My Data Journey: ""
+  # My Data Journey: ""
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
