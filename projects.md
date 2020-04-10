@@ -39,32 +39,6 @@ I have already covered this project in detail via an article in Medium and the c
 
 ---
 
-## Analyzing Chocolate Bar Ratings
-
-<div
- class="canva-embed"
- data-design-id="DADpW1Kfk2U"
- data-height-ratio="0.7071"
- style="padding:70.7071% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
-></div>
-<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADpW1Kfk2U&#x2F;view?utm_content=DADpW1Kfk2U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">A Chocolatey Infographic</a> by Ramshankar Yadhunath
-
-**The Project Overview :**
-Exploratory Data Analysis(EDA) is one of the most crucial steps in a Data Science project. EDA in basic terms is a way of "Understanding the data with the help of visualizations and descriptive statistics". A lot of courses I signed up for in the past emphasised on the need to use EDA to understand datasets and use this information to either model a ML/DL problem or tell a convincing story about the dataset to a stakeholder.
-Therefore, through this project I made an attempt at improving my EDA skills using the Chocolate Bar Ratings Dataset.
-
-**The Links to the Project :**
-The project's detailed code and related documentation can be found here
-
-- [Github Repository](https://github.com/ry05/Chocolate-Bar-Analysis)
-
-**Reason for the Project's proximity to my Heart**
-- First fully-explained EDA project
-- First shot at designing an infographic
-
----
-
 ## Criminal Activity Hotspot Analysis
 
 <div
@@ -91,3 +65,28 @@ The project's detailed code and related documentation can be found here
 - First published research paper
 - Won the "Best Paper" award at CSITSS 2019
 
+---
+
+## Analyzing Chocolate Bar Ratings
+
+<div
+ class="canva-embed"
+ data-design-id="DADpW1Kfk2U"
+ data-height-ratio="0.7071"
+ style="padding:70.7071% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADpW1Kfk2U&#x2F;view?utm_content=DADpW1Kfk2U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">A Chocolatey Infographic</a> by Ramshankar Yadhunath
+
+**The Project Overview :**
+Exploratory Data Analysis(EDA) is one of the most crucial steps in a Data Science project. EDA in basic terms is a way of "Understanding the data with the help of visualizations and descriptive statistics". A lot of courses I signed up for in the past emphasised on the need to use EDA to understand datasets and use this information to either model a ML/DL problem or tell a convincing story about the dataset to a stakeholder.
+Therefore, through this project I made an attempt at improving my EDA skills using the Chocolate Bar Ratings Dataset.
+
+**The Links to the Project :**
+The project's detailed code and related documentation can be found here
+
+- [Github Repository](https://github.com/ry05/Chocolate-Bar-Analysis)
+
+**Reason for the Project's proximity to my Heart**
+- First fully-explained EDA project
+- First shot at designing an infographic
