@@ -12,4 +12,4 @@ subtitle : Research and other allied interests
 
 **keywords :** {Law enforcement;Force;Machine learning algorithms;Urban areas;Standards;Data models;Correlation;Crime Hotspots;Police Force Optimization;Supervised Machine Learning;Multi-class Classification;Class Imbalance}  
 
-**URL :** https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031057&isnumber=9031009
+**URL :** [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031057&isnumber=9031009](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031057&isnumber=9031009)
