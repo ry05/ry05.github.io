@@ -6,7 +6,7 @@ subtitle: Other lighter endeavours
 
 ## Work in Building the Data Science Community at College
 
-### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
+#### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
 - Organized a data-driven wing within the forum that was responsible for collecting, managing and analysing data of active participants in the forum's activities
   - Was able to improve average participant turnout per event from the previous year by 55%
   - Surveys and questionnaires helped understand what kind of events and topics interested the community more
@@ -19,7 +19,7 @@ subtitle: Other lighter endeavours
   - Used as supplementary material for the Deep Learning and Neural Networks course at ASE-B
   - [Click here](https://bit.ly/python-tut-face) for the Guide
   
-### :bar_chart: As Mentor of the Data Science SIG at ASE-B (ACM Student Chapter)
+#### :bar_chart: As Mentor of the Data Science SIG at ASE-B (ACM Student Chapter)
 - Teach basic concepts of statistics, data science and machine learning to freshers and sophomores
 - Working on data science projects ranging from data cleaning to data analysis to predictive modelling
 - Selected Sessions
