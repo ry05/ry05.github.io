@@ -37,6 +37,8 @@ I have already covered this project in detail via an article in Medium and the c
 - Involvement of data collection practices
 - Ethical obligation(The villagers had pinned their hopes on us to provide them with a solution to their water problems)
 
+---
+
 ## Analyzing Chocolate Bar Ratings
 
 <div
@@ -60,6 +62,8 @@ The project's detailed code and related documentation can be found here
 **Reason for the Project's proximity to my Heart**
 - First fully-explained EDA project
 - First shot at designing an infographic
+
+---
 
 ## Criminal Activity Hotspot Analysis
 
