@@ -4,7 +4,7 @@
 title: Ramshankar Yadhunath
 
 # Short description of your site
-description: My Portfolio Website where I showcase my projects and write about topics that interest me; most usually Data Science!
+description: Portfolio Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -24,8 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
-  Miscellaneous : ""
-  # Persp the Chimp: "perspthechimp"
+  Miscellaneous : "misc"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
