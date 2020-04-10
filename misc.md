@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-subtitle: Other lighter endeavours
+subtitle: Other endeavours
 ---
 
 ## Work in Building the Data Science Community at College
