@@ -6,6 +6,8 @@ subtitle: Other lighter endeavours
 
 ## Work in Building the Data Science Community at College
 
+---
+
 #### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
 - Organized a data-driven wing within the forum that was responsible for collecting, managing and analysing data of active participants in the forum's activities
   - Was able to improve average participant turnout per event from the previous year by 55%
