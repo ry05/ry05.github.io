@@ -31,10 +31,6 @@ subtitle: Other endeavours
   - [Introduction to Neural Networks](https://paper.dropbox.com/doc/Explore-ML-DSC-Neural-Networks--Axyg74XnuRKvmEZonapI~dtWAg-2AANiBmwe5Aqa4MPAUQ1v)
   
 ---
-  
-### TO BE UPDATED FURTHER...
-
----
 
 ## Articles Written on Medium
 
@@ -54,4 +50,8 @@ subtitle: Other endeavours
   - Date of Publishing : August 28, 2019
   - [Link](https://medium.com/face-amrita-bangalore/how-my-team-overcame-its-rookie-hiccups-in-our-first-ever-data-science-hackathon-5cba643ece08?source=friends_link&sk=c6cc4eb9517bf44566ae9334ec69040e)
   
-  
+---
+
+### TO BE UPDATED FURTHER...
+
+---
