@@ -13,3 +13,13 @@ subtitle : Research and other allied interests
 **keywords :** {Law enforcement;Force;Machine learning algorithms;Urban areas;Standards;Data models;Correlation;Crime Hotspots;Police Force Optimization;Supervised Machine Learning;Multi-class Classification;Class Imbalance}  
 
 **URL :** [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031057&isnumber=9031009](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031057&isnumber=9031009)
+
+---
+
+### The Impact of Water Distribution Inconsistency in the Rural Settlements of Punjab and to Extrapolate a Nature Based Sustainable Technology to Enhance Livelihood  
+
+**Status :** Publication Pending  
+
+**URL :** [https://www.amrita.edu/publication/impact-water-distribution-inconsistency-rural-settlements-punjab-and-extrapolate-nature](https://www.amrita.edu/publication/impact-water-distribution-inconsistency-rural-settlements-punjab-and-extrapolate-nature)  
+
+
