@@ -6,10 +6,6 @@ tags: [productivity hack, data science]
 share-img: /img/Utility-Scripts-Post/logo.png
 ---
 
-# Utility Scripts for Data Science
-
-### Less known, but highly effective tools for Data Scientists
-
 Remember the code you wrote in your last data science project for replacing *certain values appearing in a feature with another unified value*?
 
 > If you don't, this post is for you. 
