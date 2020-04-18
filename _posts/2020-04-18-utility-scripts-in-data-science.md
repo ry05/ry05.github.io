@@ -226,7 +226,7 @@ In fig. 3, I depict a common thinking process I adhere to when I write my utilit
 
 ## Inspiration
 
-This wonderful youtube [video](https://www.youtube.com/watch?v=C4h88PfN5jA) on using utility scripts in kaggle by Rachael Tatman was what introduced me to using utility scripts for my data science projects. If you wish to know how you can use utility scripts on Kaggle, this video is a must watch!
+This wonderful youtube [video](https://www.youtube.com/watch?v=C4h88PfN5jA) on using utility scripts in kaggle by [Rachael Tatman](https://twitter.com/rctatman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) was what introduced me to using utility scripts for my data science projects. If you wish to know how you can use utility scripts on Kaggle, this video is a must watch!
 
 ## Conclusion
 
