@@ -17,7 +17,6 @@ A couple of months back, during a casual conversation with a bunch of friends, I
 But of course, how could it only be our problem? What if there were a few more people in the world who faced such difficulties? In order to understand more on this, I did what every other Generation Z person would do, **Ask Google**. 
 
 ![inability-to-finish](/img/Bright-Idea-not-break-cocoon/inability-to-finish.png)
-
 Not the most advanced Googling skills, but did the job for me!
 
 **86,50,00,000 search results!** Wow! If so many people were writing about this, maybe it was actually a global problem. Probably, it was one of those highly written about problems that needed immediate attention. But when I began surfing through the page results, I realized that links relevant to my search ended after Page 4. Now, going by 10 search results per page, I was looking at around 40 unique search results for a topic that I had searched for. 
@@ -96,7 +95,6 @@ This has seemed to work for me in almost every case (except those cases where my
 ## Feeling Intimidated
 
 ![feeling-intimidated](/img/Bright-Idea-not-break-cocoon/feeling-intimidated.jpeg)
-
 [Source](https://thepositivitysolution.com/wp-content/uploads/2015/02/bigstock-Huge-legs-with-small-businessm-82870877.jpg)
 
 I once began this independent project of building a code repository that would have solutions to common algorithms and coding tasks in multiple languages(and even language independent logic). My intentions were to start with basic algorithms and when things start getting tougher, rope in a few batch mates who were stronger coders and build an open source project for helping students across the world. 1 week into starting my initiative, I came across this wonderful website called [GeeksforGeeks](https://www.geeksforgeeks.org/). ***It already seemed to do everything I had planned to do and it was even doing way more than what I had planned to do!*** I felt it would be pointless working on that project. ***And, I aborted the idea!***
@@ -107,7 +105,8 @@ Looking back now, if I had persisted in working on that project I would have bee
 
 ## Letting people Influence your Goals
 
-![](/img/Bright-Idea-not-break-cocoon/people-influence.jpg)Photo by [William Rouse](https://unsplash.com/@williamrouse?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![](/img/Bright-Idea-not-break-cocoon/people-influence.jpg)  
+Photo by [William Rouse](https://unsplash.com/@williamrouse?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 There have been a plethora of ideas that I have had over the past couple of years that I didn’t work through just because other people felt that the idea might not work out well. 
 
@@ -122,7 +121,6 @@ In late December last year, I approached my friends with an idea of creating a p
 While some of my friends loved the idea, ***a lot of them raised doubts as to whether it would be worth the effort.*** They feared it would not be that viewed by other students and that it might not be worth the time I spend on it. This did make me think hard, but deep down I was pushed forward by this feeling that the juniors at the college needed this. I felt that even if there are a handful of students who get benefited by this tiny little initiative, then it was all worth my time. 
 
 ![tpj-stats](/img/Bright-Idea-not-break-cocoon/tpj-stats.png)
-
 It might not be the most ravishing stats, but its way more than what I expected!
 
 The above is the Medium stats for 3 articles published on my idea (an introductory post and 2 interviews). These stats make me very happy. I feel I have been able to help a few students and I will continue to release more episodes so that I can help more. ***Had I given up initially after listening to the contrasting views of my friends, would I have been able to feel content about this?***
