@@ -30,10 +30,10 @@ I have put my best foot forward in the past month to beat this habit of not bein
 
 I have always been fascinated by the world of data science. Not because of [this](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), but because of my drive to understand things in better fashion and have control over parameters guiding the success of businesses or organizations. So, about a couple of years back, I was having this conversation with a friend at college. 
 
-***Friend :*** So, since you are interested in data science I guess statistics should not be too difficult for you!
-***Me :*** Oh, of course it is. I absolutely hate statistics! I have to gather the patience to learn it sometime soon.
-***Friend :*** *(awkward silence…deep stare into my eyes)* Wait! But, is that not what is most important?
-***Me :*** *(sheepish look) blah blah blah*
+***Friend :*** So, since you are interested in data science I guess statistics should not be too difficult for you!  
+***Me :*** Oh, of course it is. I absolutely hate statistics! I have to gather the patience to learn it sometime soon.  
+***Friend :*** *(awkward silence…deep stare into my eyes)* Wait! But, is that not what is most important?  
+***Me :*** *(sheepish look) blah blah blah*  
 
 I did say something then, but I honestly don’t remember it now. Because whatever it was, it was just me throwing a barrage of meaningless words to show that I was in control. ***I was not!*** (My friend probably realized it too, but didn’t tell me anything more. Maybe it was a show of niceness or maybe it was pity for my lack of understanding)
 
@@ -65,31 +65,31 @@ I know what you are thinking. The answer is no. My mental stability is in perfec
 
 This is how a normal procrastination conversation goes on in our head in a usual case.
 
-***Rational You :*** I have to finish writing this paper by this month. So, let me make an initial plan today to start of.
-***All-for-fun You :*** Let’s do it!
-***All-for-fun You :*** *(after 5 minutes)* Why don’t we have a look at the latest movie trailers?
-***Rational You :*** Sure! Will get back to work in 10 minutes.
-***All-for-fun You :*** *(after 10 minutes)* What does that thumbnail say? Wait! Is that …
-***Rational You :*** Looks fun! Let’s have a look!
-*…some time later*
-***Rational You :*** *(2 hours later)* Oh my god! I wasted 2 hours doing nothing. I am such a mess.
-***All-for-fun You :*** Keep calm my friend. 2 hours have gone by. How will it make a difference if a couple more are spent on leisure? You need this to release your stress. Let’s watch a movie and you can work after that.
-***Rational You :*** Thanks buddy! You are such a nice person.
-*…some time later*
-***Rational You :*** *(after 6 hours)* I hate myself! I have wasted so much time. The whole day has gone by and I have done nothing.
+***Rational You :*** I have to finish writing this paper by this month. So, let me make an initial plan today to start of.  
+***All-for-fun You :*** Let’s do it!  
+***All-for-fun You :*** *(after 5 minutes)* Why don’t we have a look at the latest movie trailers?  
+***Rational You :*** Sure! Will get back to work in 10 minutes.  
+***All-for-fun You :*** *(after 10 minutes)* What does that thumbnail say? Wait! Is that …  
+***Rational You :*** Looks fun! Let’s have a look!  
+*…some time later*  
+***Rational You :*** *(2 hours later)* Oh my god! I wasted 2 hours doing nothing. I am such a mess.  
+***All-for-fun You :*** Keep calm my friend. 2 hours have gone by. How will it make a difference if a couple more are spent on leisure? You need this to release your stress. Let’s watch a movie and you can work after that.  
+***Rational You :*** Thanks buddy! You are such a nice person.  
+*…some time later*  
+***Rational You :*** *(after 6 hours)* I hate myself! I have wasted so much time. The whole day has gone by and I have done nothing.  
 
 #### II. Procrastinating Procrastination
 
 This is how a procrastinating procrastination conversation should go on in our head.
 
-***Rational You :*** I have to finish writing this paper by this month. So, let me make an initial plan today to start of.
-***All-for-fun You :*** Let’s do it!
-***All-for-fun You :*** *(after 5 minutes)* Why don’t we have a look at the latest movie trailers?
-***Rational You :*** That would be fun! But, why exhaust our leisure right away? Let’s do that after sometime. Let’s finish this paper work for now.
-***All-for-fun You :*** But…you sure that will work?
-***Rational You :*** Of course it will! Let’s finish this up and then we can spend the rest of the day watching trailers and movies!
-***All-for-fun You :*** Sounds good! Let’s do this then!
-***Rational You :*** *(satisfactory smile) Yes!*
+***Rational You :*** I have to finish writing this paper by this month. So, let me make an initial plan today to start of.  
+***All-for-fun You :*** Let’s do it!  
+***All-for-fun You :*** *(after 5 minutes)* Why don’t we have a look at the latest movie trailers?  
+***Rational You :*** That would be fun! But, why exhaust our leisure right away? Let’s do that after sometime. Let’s finish this paper  work for now.  
+***All-for-fun You :*** But…you sure that will work?  
+***Rational You :*** Of course it will! Let’s finish this up and then we can spend the rest of the day watching trailers and movies!  
+***All-for-fun You :*** Sounds good! Let’s do this then!  
+***Rational You :*** *(satisfactory smile) Yes!*  
 
 This has seemed to work for me in almost every case (except those cases where my task is to tidy my room or organize my study table). ***But since each of us are entirely different, I make no such claim that this idea will work for everybody.*** And in the case that this does not seem to work well for you, I highly suggest you to have a look at [this article](https://jamesclear.com/procrastination) that provides a more comprehensive set of guidelines to overcome procrastination.
 
