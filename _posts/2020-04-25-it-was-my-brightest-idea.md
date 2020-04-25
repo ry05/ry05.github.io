@@ -14,7 +14,7 @@ Well, I did come back to it at a later stage and **that is when I deleted those 
 
 A couple of months back, during a casual conversation with a bunch of friends, I realized that this was not just a problem pertinent to me. Everybody in my friend cluster had it too. All of us were equally guilty of conceiving an idea, making an initial plan and then losing out on the chance to implement it. Now of course, this was just 10–15 undergraduate engineering students in one corner of the whole wide world. Maybe this was just our problem.
 
-But of course, how could it only be our problem? What if there were a few more people in the world who faced such difficulties? In order to understand more on this, I did what every other millennial would do, **Ask Google**. 
+But of course, how could it only be our problem? What if there were a few more people in the world who faced such difficulties? In order to understand more on this, I did what every other Generation Z person would do, **Ask Google**. 
 
 ![inability-to-finish](/img/Bright-Idea-not-break-cocoon/inability-to-finish.png)
 
