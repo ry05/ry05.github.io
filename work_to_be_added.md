@@ -8,7 +8,5 @@ This is something you should work on
 - 5 Days of Skill Building
 - Articles on Medium (Also, maybe a link to your Medium Profile)
 
-### Get those posts up and running
-- _posts folder needs to be made
 
 
