@@ -2,7 +2,7 @@
 layout: post
 title: First Steps in Image Classification with the fast.ai library - Part 1
 image: /img/Image-Classification-with-Fastai/logo.png
-tags: [fast.ai, code, image classification]
+tags: [fast.ai, code, image classification, first steps]
 share-img: /img/Image-Classification-with-Fastai/logo.png
 ---
 
