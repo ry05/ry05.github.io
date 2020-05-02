@@ -15,17 +15,14 @@ After a semester of learning Computer Vision and ending up top of my class, I re
 A couple of weeks back, I came across this wonderful website called [fast.ai](https://www.fast.ai/) and I would highly recommend the reader to head over to that link right now if you want some *real, hands-on, straight-to-the-point* content. While I have not finished their course yet, I figured the best way to evaluate what I learn would be to practice it! So, this post contains a small, mini-project that I have undertaken as a part of the fast.ai course [Practical Deep Learning for Coders](https://course.fast.ai/) (Lecture 1). Apart from writing about my work, I shall also try to explain a few terms that might make it simpler for image classification beginners to follow the content.
 
 ## Useful links to read before going further ahead
-
 - [Should you Kaggle?](https://medium.com/implodinggradients/should-you-kaggle-5b8dbdef442f) - A perfect summary of what kaggle is and why you should be a part of it
 - [The fast.ai website](https://www.fast.ai/) - The home of fast.ai
 - [Plant Pathology 2020 - FGVC7 Competition Homepage](https://www.kaggle.com/c/plant-pathology-2020-fgvc7) - The competition that provided the dataset used in this mini-project
 
 ## The Project
-
 In this section, I shall provide a slightly in-depth explanation of the steps I have undertaken while putting my skills to test. Following the steps in this article should help you recreate the project on your own and help you identify key aspects of building an image classifier.
 
 ### The Zeroth Steps
-
 These include the steps that must be performed prior to writing code to build your classifier.
 
 - Create an account on [Kaggle](https://www.kaggle.com/)
@@ -37,7 +34,6 @@ If you wish to NOT work on your local system, the use of Kaggle Kernels will be 
 >  I have used a kaggle kernel python notebook with a GPU. The fast.ai library is pre-installed in the kaggle kernel. The data from the competition will already have been loaded onto your environment.
 
 ### Understanding the Problem Statement
-
 The specific objectives of the problem statement(as per the competition) are:
 
 - Classify a given image from testing dataset into an appropriate category
@@ -47,7 +43,6 @@ The specific objectives of the problem statement(as per the competition) are:
 - Address depth perception—angle, light, shade, physiological age of the leaf
 
 ### Inspecting the Data
-
 Data inspections is an important part of any data science problem. In building an image classifier, it always helps to keep an eye out for preliminary questions like the following about the data:
 
 - What kind of images must be classified?
@@ -77,13 +72,12 @@ Let' also have a look on the image samples we have:
 If you wish to read a bit about the domain this project deals with, the following links will help:
 
 - [The Plant Pathology 2020 challenge dataset to classify foliar disease of apples](https://arxiv.org/abs/2004.11958)
-- https://en.wikipedia.org/wiki/Apple_scab
-- https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/AppleScab.aspx
-- https://extension.psu.edu/apple-diseases-rust
-- https://organicgrowersschool.org/ask-ruth-rust-on-apple-tree/
+- [https://en.wikipedia.org/wiki/Apple_scab](https://en.wikipedia.org/wiki/Apple_scab)
+- [https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/AppleScab.aspx](https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/AppleScab.aspx)
+- [https://extension.psu.edu/apple-diseases-rust](https://extension.psu.edu/apple-diseases-rust)
+- [https://organicgrowersschool.org/ask-ruth-rust-on-apple-tree/](https://organicgrowersschool.org/ask-ruth-rust-on-apple-tree/)
 
 ### The Issues with the Data
-
 With some preliminary understanding and observation of our data, we find the following relevant issues with it:
 
 - Class Imbalance
@@ -101,8 +95,6 @@ The *multiple_diseases* class is too small when compared to the other classes an
 *Background noise* in the context of this problem includes the multiple elements in a given image. For example, an image might have more than one leaf in consideration, have branches etc. The *Image Samples* pictures above shows plant images that have background noise prevalent in the images. Therefore, it is also necessary to get rid of these backgrounds and select only the leaves from these images. *In theory, this might lead to better performance for our models*. 
 
 ![rem-bkground](/img/Image-Classification-with-Fastai/rem-bkground.png)
-
-
 
 Finally, the *lighting conditions* vary largely in the images. While some are well lit, some are dark. These differences in brightness and contrast are potential causes for a badly performing model. 
 
@@ -247,6 +239,5 @@ data.show_batch(rows=3, figsize=(7,6))
 **Output:**
 
 ![](/img/Image-Classification-with-Fastai/databunch.png)
-
 
 **That's all for Part 1. Stay tuned for Part 2.** 
