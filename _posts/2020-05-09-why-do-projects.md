@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why do we need to work on Projects?
+title: Why we need to work on Projects
 image: /img/Why-do-Projects/logo.png
 tags: [self-help]
 share-img: /img/Why-do-Projects/logo.png
