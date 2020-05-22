@@ -2,7 +2,7 @@
 layout: post
 title: Why we need to work on Projects
 image: /img/Why-do-Projects/logo.png
-tags: [self-help]
+tags: [self-help,data science]
 share-img: /img/Why-do-Projects/logo.png
 ---
 
