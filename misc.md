@@ -34,6 +34,10 @@ subtitle: Other endeavours
 
 ## Articles Written on Medium
 
+- Sorry, Online Courses Won't Make you a Data Scientist
+  - Date of Publishing: May 14, 2020
+  - [Link](https://towardsdatascience.com/sorry-online-courses-wont-make-you-a-data-scientist-8639d5f00889?source=friends_link&sk=a0d99d05e1058d26bf6f277aea76388b)
+  
 - How to Not Be Intimidated by the World of Code
   - Date of Publishing: March 27, 2020
   - [Link](https://medium.com/@yadramshankar/how-to-not-be-intimidated-by-the-world-of-code-e12c3518fbc2?source=friends_link&sk=0287594258b6dbb1bab533f46d098789)
@@ -50,8 +54,5 @@ subtitle: Other endeavours
   - Date of Publishing: August 28, 2019
   - [Link](https://medium.com/face-amrita-bangalore/how-my-team-overcame-its-rookie-hiccups-in-our-first-ever-data-science-hackathon-5cba643ece08?source=friends_link&sk=c6cc4eb9517bf44566ae9334ec69040e)
 
-- Sorry, Online Courses Won't Make you a Data Scientist
-  - Date of Publishing: May 14, 2020
-  - [Link](https://towardsdatascience.com/sorry-online-courses-wont-make-you-a-data-scientist-8639d5f00889?source=friends_link&sk=a0d99d05e1058d26bf6f277aea76388b)
   
 ---
