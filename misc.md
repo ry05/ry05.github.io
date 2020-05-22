@@ -35,23 +35,23 @@ subtitle: Other endeavours
 ## Articles Written on Medium
 
 - How to Not Be Intimidated by the World of Code
-  - Date of Publishing : March 27, 2020
+  - Date of Publishing: March 27, 2020
   - [Link](https://medium.com/@yadramshankar/how-to-not-be-intimidated-by-the-world-of-code-e12c3518fbc2?source=friends_link&sk=0287594258b6dbb1bab533f46d098789)
   
 - Leveraging Data for Social Good — A Practical Example
-  - Date of Publishing : December 30, 2019
+  - Date of Publishing: December 30, 2019
   - [Link](https://towardsdatascience.com/leveraging-data-for-social-good-a-practical-example-adac053bdeaa?source=friends_link&sk=8b4b119dcd6660ef2775fa6ea6eb4398)
   
 - The Most Important Lessons my First Data Science Meetup taught me
-  - Date of Publishing : December 10, 2019
+  - Date of Publishing: December 10, 2019
   - [Link](https://towardsdatascience.com/the-most-important-lessons-my-first-data-science-meetup-taught-me-9651a528616?source=friends_link&sk=35f62ddfb49211692ab5c23be6058747)
   
 - How my team overcame its “Rookie” Hiccups in our first ever “Data Science Hackathon” !
-  - Date of Publishing : August 28, 2019
+  - Date of Publishing: August 28, 2019
   - [Link](https://medium.com/face-amrita-bangalore/how-my-team-overcame-its-rookie-hiccups-in-our-first-ever-data-science-hackathon-5cba643ece08?source=friends_link&sk=c6cc4eb9517bf44566ae9334ec69040e)
+
+- Sorry, Online Courses Won't Make you a Data Scientist
+  - Date of Publishing: May 14, 2020
+  - [Link](https://towardsdatascience.com/sorry-online-courses-wont-make-you-a-data-scientist-8639d5f00889?source=friends_link&sk=a0d99d05e1058d26bf6f277aea76388b)
   
----
-
-### TO BE UPDATED FURTHER...
-
 ---
