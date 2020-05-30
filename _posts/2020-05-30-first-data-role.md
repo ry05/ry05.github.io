@@ -32,7 +32,7 @@ I finally accepted the role and I must say that I was extremely fortunate to hav
 
 ## Had I finally become a "Data Scientist"?
 
-**Nope.** 
+**Nope.**
 
 On my first physical meeting with the team at PFA, I realised that they had some really good records of data about the shelter's activities. However, they had never tried to tap into the data they had before and so, data science was an alien term to the team. What this meant was that I didn't have a superior from my field who could help me out with data-related work. I had to do what I knew from scratch and constantly discuss with my domain experts(in this case, the PFA team) about how I could serve them better with my abilities. 
 
