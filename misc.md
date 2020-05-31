@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-subtitle: Other endeavours
+subtitle: Other endeavours that keep me busy
 ---
 
 ## Work in Building the Data Science Community at College
