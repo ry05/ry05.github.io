@@ -18,7 +18,7 @@ A year passed and now it was time to identify if they had an open position for a
 
 ## Thoughts after being offered the role
 
-I had bagged the role I wanted at the animal shelter and was pretty excited when I told my family, friends and teachers about it. I had agreed to join at the organization after a couple of weeks. However, I must admit that the next few days were highly turbulent for my thought process. I began vacillating on whether I should accept the offer or not. The reasons for this suddense sense of doubt had nothing to do with the shelter or the work they did. They were 2 simple questions that I had to ask myself before taking the role up:
+I had bagged the role I wanted at the animal shelter and was pretty excited when I told my family, friends and teachers about it. I had agreed to join at the organization after a couple of weeks. However, I must admit that the next few days were highly turbulent for my thought process. I began vacillating on whether I should accept the offer or not. The reasons for this sudden sense of doubt had nothing to do with the shelter or the work they did. They were 2 simple questions that I had to ask myself before taking the role up:
 
 1. Should I go for it? Would this opportunity be useful to my career?
 
