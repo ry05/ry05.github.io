@@ -72,7 +72,7 @@ The "One size fits all" ideology is an extremely lazy approach to dealing with t
 While international organizations like the UN and WHO continue to make significant improvements in the state of mental health in the world, the onus is on us to inculcate these practices in our communities and work towards a unified approach in dealing with issues of mental strain. As individuals, we are not all powerful. But through our collective actions, there is a lot we could achieve. However, it becomes increasingly important to know what actions we could take - We are over imaginative creatures. So, very often our suggestions are nothing but unicorns, impractically wonderful. The best way to ensure that we set realistic goals for ourselves is to identify with the existing research in the field. Figure 3 does provide a great outlook on the same. It is one among the several important foundations detailed in WHO's 2014 report on preventing suicide [5]. 
 
 <center>Figure 3: Key risk factors for suicide aligned with relevant interventions</center>
-![](C:\Users\Ramshankar Yadhunath\Desktop\personal-website-posts\img\Mental-Health\ourworldindata_risk-factors-and-interventions.png)
+![](/img/Mental-Health/ourworldindata_risk-factors-and-interventions.png)
 
 Based on the above diagram and based out of a first hand experience, here are 14 steps we all can take as lone individuals in bringing about a wave of positive social change with regards to mental health and suicide prevention :
 
