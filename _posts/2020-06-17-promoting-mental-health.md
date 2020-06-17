@@ -58,10 +58,10 @@ This might be highly unpopular opinion, but I will say it anyways - *People do n
 
 This brings me to the root of why people are not usually able to talk about their mental state. There are essentially 4 different reasons I can identify with:
 
-* **Social stigma :** Since childhood, we have been indirectly taught that another's opinion matters more in our life than our own. In such an environment, it's never easy to talk about our inner fears. Most times, we prefer to keep it in us and endure, than be subjected to the horrible judgement of a two-faced world.
-* **People find it funny :** Yes. This is a real point that nobody is talking about. We always have seen people laugh of another's insecurity and claim, "Ah, that's so silly. LOL". A pointless laugh at someone's fears has exacerbating effects.
-* **People don't understand :** Sometimes, even after trying too hard people fail to understand how another feels. This causes us to altogether drop the idea of talking to someone as the effort is usually futile.
-* **The ghosts of our past :** Not all of us are proud of our actions in the past. Sometimes, we do wrong. But even if we reform our ways at a later stage, the ghosts of our past haunt us and we are too embarrassed to talk to the world about it. We fear backlash and of course we should - The majority of the world is too shallow to forgive.
+- **Social stigma :** Since childhood, we have been indirectly taught that another's opinion matters more in our life than our own. In such an environment, it's never easy to talk about our inner fears. Most times, we prefer to keep it in us and endure, than be subjected to the horrible judgement of a two-faced world.
+- **People find it funny :** Yes. This is a real point that nobody is talking about. We always have seen people laugh of another's insecurity and claim, "Ah, that's so silly. LOL". A pointless laugh at someone's fears has exacerbating effects.
+- **People don't understand :** Sometimes, even after trying too hard people fail to understand how another feels. This causes us to altogether drop the idea of talking to someone as the effort is usually futile.
+- **The ghosts of our past :** Not all of us are proud of our actions in the past. Sometimes, we do wrong. But even if we reform our ways at a later stage, the ghosts of our past haunt us and we are too embarrassed to talk to the world about it. We fear backlash and of course we should - The majority of the world is too shallow to forgive.
 
 Unsurprisingly, we see how most of the reasons leading to suicide are not merely based on the actions of the person who commits it. The main driver to such a tragedy is the inaction of the community that the person is a part of. 
 
