@@ -106,11 +106,11 @@ Mental health is not invisible. It is just hidden by people because they feel th
 
 ## References
 
-1. https://www.who.int/news-room/fact-sheets/detail/dementia
-2. https://www.who.int/mental_health/mhgap/en/
-3. https://www.who.int/news-room/fact-sheets/detail/depression
-4. https://ncdalliance.org/sites/default/files/resource_files/WHO_Mental_Health_Atlas_2017.pdf
-5. https://apps.who.int/iris/bitstream/handle/10665/131056/9789241564779_eng.pdf
-6. https://ourworldindata.org/suicide#suicide-is-a-leading-cause-of-death-especially-in-young-people
-7. https://www.who.int/mental_health/prevention/suicide/resource_media.pdf
+1. [Dementia Fact Sheets - WHO](https://www.who.int/news-room/fact-sheets/detail/dementia)
+2. [WHO Mental Health Gap Action Programme](https://www.who.int/mental_health/mhgap/en/)
+3. [Depression Fact Sheets - WHO](https://www.who.int/news-room/fact-sheets/detail/depression)
+4. [WHO Mental Health Atlas 2017](https://ncdalliance.org/sites/default/files/resource_files/WHO_Mental_Health_Atlas_2017.pdf)
+5. [Preventing suicide - A global imperative](https://apps.who.int/iris/bitstream/handle/10665/131056/9789241564779_eng.pdf)
+6. [Suicide - Our World in Data](https://ourworldindata.org/suicide#suicide-is-a-leading-cause-of-death-especially-in-young-people)
+7. [Preventing Suicide - A Resource for Media Professionals](https://www.who.int/mental_health/prevention/suicide/resource_media.pdf)
 
