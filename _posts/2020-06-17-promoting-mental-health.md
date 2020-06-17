@@ -14,12 +14,12 @@ Often after such terrible tragedies, some of us suddenly transition into wise in
 
 ## Suicide is a Global Problem
 
-As of 2017, suicide ranked as the 15th highest cause of deaths in the world (Figure 1). It is also highly useful to notice that out of these top 15 causes, dementia is the only other cognitive disorder along with suicide. 
+As of 2017, suicide is ranked as the 15th highest cause of deaths in the world (Figure 1). It is also highly useful to notice that out of these top 15 causes, dementia is the only other cognitive disorder along with suicide. 
 
 <center>Figure 1</center>
 <iframe src="https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-Dementia is widely recognized as a syndrome that directly impacts the ability to think and performs everyday activities [1]. But, suicide on the other hand is not a deterioration of the mind as a whole. It can be more related to a loss of spirit, a sense of hopelessness and even an impulsive decision at times engendered by great pain and suffering. Therefore, it becomes very important to realise the gravity of the situation - *Suicide  is the largest cause of mental stress related deaths in the world.* 
+Dementia is widely recognized as a syndrome that directly impacts the ability to think and perform everyday activities [1]. But, suicide on the other hand is not a deterioration of the mind as a whole. It can be more related to a loss of spirit, a sense of hopelessness and even an impulsive decision at times engendered by great pain and suffering. Therefore, it becomes very important to realise the gravity of the situation - *Suicide  is the largest cause of mental stress related deaths in the world.* 
 
 > *Is it still sane to think an obligatory post will solve the issue of suicide?*
 
@@ -79,7 +79,7 @@ Based on the above diagram and based out of a first hand experience, here are 14
 1. Avoid all kinds of discriminations towards individuals based on their caste, color, religion, skillsets, cognitive abilities, personal choices and public opinions.
 2. If you really must criticise an opinion, do it by providing constructive feedback. If you have nothing valuable to offer, do not exercise your vocal chords. 
 3. Don't be a cyber bully. Worse, don't be a cyber idiot. If you are living in an age with internet, realise its a privilege - Use it for whatever you want, as long as you don't hurt people without cause.
-4. Hear people out, don't tell them what to do unless they ask you for your opinion. Don't make it about "you being there". A person's depression is not your gateway to getting brownie points. for kindness.
+4. Hear people out, don't tell them what to do unless they ask you for your opinion. Don't make it about "you being there". A person's depression is not your gateway to getting brownie points for kindness.
 5. Do not overly protect people, especially children. Teach them to be self-reliant and self-sufficient to a large extent. You can watch all the "feel good" movies in the world, but at the end if you can't stand up for yourself, nothing matters. 
 6. If you have contacts with people at your organization or university or neighbourhood and also time to do so, [build a community](https://www.who.int/mental_health/suicide-prevention/engaging_communities_toolkit/en/) to promote mental health. Have weekly sessions, talk about your fears, allow people to express theirs and invite experts to be a part of it. 
 7. Do not "try" to make people happy. Just treat them normally. Don't force them to share their troubles with you. The more you force, the more they will resist.
