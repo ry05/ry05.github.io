@@ -10,7 +10,7 @@ subtitle : Research and other allied interests
 
 **Keywords:** {Law enforcement, Machine learning algorithms, Urban areas, Data models, Crime Hotspots, Police Force Optimization, Supervised Machine Learning}  
 
-[**DOI**](10.1109/CSITSS47250.2019.9031057)
+[**DOI**](https://ieeexplore.ieee.org/document/9031057)
 
 ---
 
@@ -20,6 +20,6 @@ subtitle : Research and other allied interests
 
 **Keywords:** {[Live-in-labs](https://www.amrita.edu/international/live-in-labs), Rural settlements, Renewable water sources, Nature based solution, Sustainable development}
 
-[**DOI**](10.1109/CSITSS47250.2019.9031057)
+[**DOI**](https://link.springer.com/chapter/10.1007/978-981-15-1420-3_175)
 
 
