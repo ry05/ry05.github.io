@@ -36,7 +36,7 @@ subtitle: Other endeavours that keep me busy
 
 - Nope, Learning from Projects is not an Easy Task
   - Date of Publishing: June 14, 2020
-  -[Link](https://towardsdatascience.com/nope-learning-from-projects-is-not-an-easy-task-eb35c64da6e7?source=friends_link&sk=38b5267d700cc006064f3f3e948c7040)
+  - [Link](https://towardsdatascience.com/nope-learning-from-projects-is-not-an-easy-task-eb35c64da6e7?source=friends_link&sk=38b5267d700cc006064f3f3e948c7040)
   
 - Sorry, Online Courses Won't Make you a Data Scientist
   - Date of Publishing: May 14, 2020
