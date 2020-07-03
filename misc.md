@@ -11,7 +11,7 @@ subtitle: Other endeavours that keep me busy
 
 In this talk, I provide a detailed explanation about how my team and I visited a rural settlement in Northern India and used data science to diagnose their issues with inconsistent water distribution and proposed a sustainable solution to improve their lives. The talk was organized by [Meetup Madness](https://meetupmadness.io/) and it was great fun to be a part of their family!
 
-:speaking_head: Recording not yet available 
+:speaking_head: Recording not yet available  
 :link: [Slides](https://www.canva.com/design/DAD_h6ubbIA/QR2g558eEoV1SW9Dto90MA/view)
 
 ---
