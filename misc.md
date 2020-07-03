@@ -4,9 +4,18 @@ title: Miscellaneous
 subtitle: Other endeavours that keep me busy
 ---
 
-## Work in Building the Data Science Community at College
+## Talks Presented
+
+#### Introducing DataSwissKnife at DSC-OMG
+
+In this talk, my team and I presented our project, DataSwissKnife(A tool to help with data science operations) on the online event DSC-OMG organized by the [Developer Student Club Initiative](https://developers.google.com/community/dsc). We represented DSC-ASEB and were amongst the 10 projects selected from all the projects done by DSCs across India! In the talk, we provide an overview of our tool, the need for it, the installation instructions and finally a demo to showcase its working.  
+
+[Talk](https://www.youtube.com/watch?v=9o5CDkeWPmM)
+[Slides](https://www.canva.com/design/DAEAV3D_iAU/w2CxGdPd_uSg5N0Rkb45og/view)
 
 ---
+
+## Work in Building the Data Science Community at College
 
 #### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
 - Organized a data-driven wing within the forum that was responsible for collecting, managing and analysing data of active participants in the forum's activities
