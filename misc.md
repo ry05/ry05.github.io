@@ -5,6 +5,7 @@ subtitle: Other endeavours that keep me busy
 ---
 
 ## Talks Presented
+---
 
 #### Introducing DataSwissKnife at DSC-OMG
 
@@ -16,6 +17,7 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
 ---
 
 ## Work in Building the Data Science Community at College
+---
 
 #### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
 - Organized a data-driven wing within the forum that was responsible for collecting, managing and analysing data of active participants in the forum's activities
@@ -42,6 +44,7 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
 ---
 
 ## Articles Written on Medium
+---
 
 - Nope, Learning from Projects is not an Easy Task
   - Date of Publishing: June 14, 2020
