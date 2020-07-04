@@ -62,13 +62,9 @@ If your answers to at least 2 of these 6 questions are a "yes", ***welcome to th
 What we see as 40-50% of our final grades, is in reality way more than that. It's not just the grades that the projects help us in achieving. It's the substantial amount of knowledge we gain from working on these projects that help us build our foundational base for our future careers. 
 
 - Academic projects offer us a platform to put to use our theoretical learnings in practice
-
-- Projects help to focus more on the "problem" and figure out "more efficient" ways to solve it.
-
-- Projects promote out-of-the-box thinking, and helps us replace all parochial, conventional understanding of existing solutions to a problem with more unconventional, yet effective alternatives.
-
+- Projects help to focus more on the "problem" and figure out "more efficient" ways to solve it
+- Projects promote out-of-the-box thinking, and helps us replace all parochial, conventional understanding of existing solutions to a problem with more unconventional, yet effective alternatives
 - It is through projects that we learn a great deal about collaborations in the academic space -  Collaborative work is important as it allows different opinions on a given topic and finally leads to an output that is devoid of individual bias
-
 - Most importantly, projects help individuals seek out the ability in themselves to be self-reliant to a large extent - Every project requires us to conduct research on existing work, setup a methodology, write code, write reports, present etc. 
 
   > *Each part of a project helps us know a little more about an aspect we didn't know much about before.* 
@@ -112,17 +108,29 @@ After 4 years of undergraduate study in a discipline where the depth of your kno
 The following points summarize these tips that have seemed to work for me. Hope these help your cause.
 
 1. **Don't be too worried or burdened by the marks these projects carry:** Think of marks as a bonus to what you do. The real idea of incorporating projects into the curriculum is to provide students a chance to self-acquire skills that can't be covered within the confines of an academic semester.
+
 2. **Choose the right team:** If it is in your control to choose your team mates, build a team that can work together. Choosing our closest acquaintances onto our team is a mistake we all do. A team must ideally not be built on *who is friends with whom*, rather it is to be based on *who can contribute effectively with whom*. 
+
 3. **Focus on the problem:** We learn more when we have a goal in place. In a project, our goal is the problem we wish to solve. So, undivided focus on this is can do wonders. 
+
 4. **Plan in advance:** Do not wait for the last moment to start your project. Be pro-active and make a plan to work on it the moment you are informed about it. While there are several ways to plan successfully, I am not sure which one will work for you. So, I will leave you to decide on that!
+
 5. **Setting up a structure for your projects:** An organized structure of your project will facilitate in easy understanding of the work you have done, which can prove beneficial to both you and your project reader. If you are working on data science projects, one template that could help you is [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). 
+
 6. **Maintaining a lab notebook:** A rough book to scribble in all your experiments, results, questions and interactions w.r.t the project will help with knowing what to write in the final report when you prepare it.
+
 7. **Break your solution before anybody else:** Every solution is flawed. Every. So, always know the pitfalls of your work and the assumptions you have made. In this way, you are indicating to your evaluator or employer or critic that you *are aware of your project*. 
+
 8. **Keep an open mind:** Be open to feedback. There are always multiple sides to every argument made.
+
 9. **Review your progress with peers:** Discuss your work, if it is not too confidential. An external perspective will help improve your work.
+
 10. **Make google your go to source, but don't be over-reliant:** Do not rely on the internet for the simplest code snippet. The internet must not be what adds value to you, you should be what makes you valuable.
+
 11. **Report your results with all honesty:** If your project has hit a bottleneck or failed, don't hide it. Report your issues and diagnose the problems that you faced. If people know where you failed, they have a much better chance of helping you out with it. If you hide these "not-so-good" results, it will not be of any help.
+
 12. **Copying code is not entirely wrong:** Picking up another's code is not wrong as long as you are not picking up everything. It is always encouraged to use what others have written to build and improve on those to create your projects. However, if you are going to pick up entire programs and pass them off as your own, then that's just plain stupid.
+
 13. **Don't look down upon other projects:** There are no "better" projects. Every project stands on its own. It could be your simple data analysis with the iris dataset or it could be a whole new deep learning framework, but both require equal respect. Not everybody has the same resources and abilities, so *be respectful* of others' work.
 
 
