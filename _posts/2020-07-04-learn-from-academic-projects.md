@@ -6,9 +6,11 @@ tags: [education, project-based-learning]
 share-img: /img/Academic-Projects/icon.png
 ---
 
+Everybody these days is talking about "Project-based" learning. The term can be quite confusing for a person hearing it for the first time. Honestly, when I first came across the term in college, I expected a course which had absolutely "NO THEORETICAL EXAMINATIONS".
+
 ![banner](/img/Academic-Projects/banner.png)
 
-Everybody these days is talking about "Project-based" learning. The term can be quite confusing for a person hearing it for the first time. Honestly, when I first came across the term in college, I expected a course which had absolutely "NO THEORETICAL EXAMINATIONS". When the lecturer finally explained the distribution of the marks, it became apparent that only about 40-50% of our final grades came from the "project" part(even lower in some subjects). The rest of our grades was still pretty much dependent on our theoretical papers. At that moment, *I felt betrayed*. The whole concept of "project-based" learning looked lost to me and I felt as though the whole idea was just a farce played on a set of unsuspecting undergraduates.  
+When the lecturer finally explained the distribution of the marks, it became apparent that only about 40-50% of our final grades came from the "project" part(even lower in some subjects). The rest of our grades was still pretty much dependent on our theoretical papers. At that moment, *I felt betrayed*. The whole concept of "project-based" learning looked lost to me and I felt as though the whole idea was just a farce played on a set of unsuspecting undergraduates.  
 
 Thankfully, **I WAS WRONG!** The "Project-Based" learning initiative is probably amongst the best any institution has to offer. And the 40-50% that was still grounded in theory acts as the perfect abutment to PBL(project-based learning). In this post, my attempt is to bring about a change in the way academic projects are perceived by students and if possible, provide a new sense of direction to work on your academic projects in the future.
 
