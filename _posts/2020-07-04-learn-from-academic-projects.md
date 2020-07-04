@@ -91,9 +91,7 @@ In this section, I list out a few of the most common mistakes we all make as stu
 - **Being bad team players:** There are no perfect team members. ***There are only team members who complement each other's weaknesses and learn effectively together as a cohort.*** Unfortunately, this is one of the toughest ideas to understand for us. There can be several reasons why we become bad team players
 
   - We feel our teammates don't know enough and tend to look down upon them.
-
   - We are unable to put the foot down when we see a non-working team. Because, at the end of the day they are your friends or peers. *You choose to have a bad final product than bad blood*.
-
   - You feel nobody can keep up with you and you work too fast. You overburden yourself with work and finally end up making a huge mess of it.
 
     Of course, the blame game is not the right thing to do here. The smarter alternative would be to be choose your team such that it lets you work and serve the problem you are trying to solve.
