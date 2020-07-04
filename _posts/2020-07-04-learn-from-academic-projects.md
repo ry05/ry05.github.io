@@ -93,8 +93,7 @@ In this section, I list out a few of the most common mistakes we all make as stu
   - We feel our teammates don't know enough and tend to look down upon them.
   - We are unable to put the foot down when we see a non-working team. Because, at the end of the day they are your friends or peers. *You choose to have a bad final product than bad blood*.
   - You feel nobody can keep up with you and you work too fast. You overburden yourself with work and finally end up making a huge mess of it.
-
-    Of course, the blame game is not the right thing to do here. The smarter alternative would be to be choose your team such that it lets you work and serve the problem you are trying to solve.
+  - Of course, the blame game is not the right thing to do here. The smarter alternative would be to be choose your team such that it lets you work and serve the problem you are trying to solve.
 
 While the above points are my observations, it is totally understandable if some of these might not appeal to my reader. In such a case of conflict, it would be great to have further discussion in the comments section.
 
