@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Perfect Chai and Other Tales
+title: Making Perfect Chai and Other Tales - My First Kaggle Win
 image: /img/Making Perfect Chai and Other Tales/icon.png
 tags: [data science, competitions, personal update]
 share-img: /img/Making Perfect Chai and Other Tales/icon.png
