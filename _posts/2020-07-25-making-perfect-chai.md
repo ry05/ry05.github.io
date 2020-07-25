@@ -78,7 +78,7 @@ On Monday (20th July, 2020), I got a message from Sanyam on Twitter about how I 
 
 If you are interested, you could check out my winning submission here : [Making perfect "Chai" and other tales :)"](https://www.kaggle.com/thedatabeast/making-perfect-chai-and-other-tales)
 
-Our interview : [Anniversary Episode: Celebrating 1 Year of CTDS.Show | CTDS.Show Kaggle Contest Results | Ep #85](https://www.youtube.com/watch?v=6RrZyQoG1lY)
+Our interview : [Anniversary Episode: Celebrating 1 Year of CTDS.Show ; CTDS.Show Kaggle Contest Results](https://www.youtube.com/watch?v=6RrZyQoG1lY)
 
 The Final Leaderboard : [CTDS.Show: Milestones](https://www.kaggle.com/init27/ctds-show-milestones)
 
