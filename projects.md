@@ -11,6 +11,24 @@ This page contains details about projects that I have worked on. In order to hel
 - Reason for the Project's proximity to my Heart
 - Additional Materials (If applicable)
 
+## Making Perfect "Chai" and Other Tales
+
+**The Project Overview :**  
+This project is my official submission to the [CTDS.show contest](https://www.kaggle.com/rohanrao/chai-time-data-science/discussion/156137) held on Kaggle. The task was to unearth insights and tell an interesting/actionable story with the dataset of the [Chai Time Data Science podcasts](https://chaitimedatascience.com/). I won the contest and more details on my experience on this contest has been described in [this blog post](https://ry05.github.io/2020-07-25-making-perfect-chai/).  
+
+**The Links to the Project :**  
+The following links provide further details on my work in this project.  
+
+- [Official Submission to the Contest](https://www.kaggle.com/thedatabeast/making-perfect-chai-and-other-tales)
+- [Winner's Interview on the CTDS podcast](https://www.youtube.com/watch?v=6RrZyQoG1lY)
+
+**Reason for the Project's proximity to my Heart**  
+- An interesting dataset to work with
+- An interesting problem statement with lots of angles to view it from
+- First competition win
+
+---
+
 ## Leveraging Data for Social Good — A Practical Example
 
 <div
