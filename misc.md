@@ -7,6 +7,14 @@ subtitle: Other endeavours that keep me busy
 ## Talks Presented
 ---
 
+### Winners Interview on the Chai Time Data Science podcast
+
+In this episode of the CTDS podcast, I was interviewed along with my fellow winner Ms. Vrinda Prabhu, by Sanyam Bhutani. We talk about a variety of topics like getting into kaggle, our competition submissions and our experience with the podcast.  
+
+:speaking_head: [Interview](https://www.youtube.com/watch?v=6RrZyQoG1lY)
+
+---
+
 #### Leveraging Data for Social Good
 
 In this talk, I provide a detailed explanation about how my team and I visited a rural settlement in Northern India and used data science to diagnose their issues with inconsistent water distribution and proposed a sustainable solution to improve their lives. The talk was organized by [Meetup Madness](https://meetupmadness.io/) and it was great fun to be a part of their family!
