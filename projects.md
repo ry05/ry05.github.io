@@ -11,6 +11,8 @@ This page contains details about projects that I have worked on. In order to hel
 - Reason for the Project's proximity to my Heart
 - Additional Materials (If applicable)
 
+---
+
 ## Making Perfect "Chai" and Other Tales
 
 **The Project Overview :**  
