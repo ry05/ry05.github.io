@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Who am I?
 ---
 
-I go by the name of Ramshankar Yadhunath and I am a final year undergraduate student pursuing his *Bachelors of Technology in Computer Science and Engineering* from [Amrita School of Engineering, Bengaluru, Karnataka, India](https://www.amrita.edu/campus/bengaluru).
+### Who am I?
+
+I go by the name of Ramshankar Yadhunath and I am a recent graduate of *Bachelors of Technology in Computer Science and Engineering* from [Amrita School of Engineering, Bengaluru, Karnataka, India](https://www.amrita.edu/campus/bengaluru).
 
 Like most 21 years, I too am in the process of carving out a niche for myself in the world and the one discipline where I really want to make an impact is data-driven decision making. As unrealistic as it may sound, the truth is that the *hype around Data Science* is not what engendered this idea of becoming a data scientist in me. Then what did?
 
