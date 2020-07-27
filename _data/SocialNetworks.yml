@@ -20,6 +20,11 @@ twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
+  
+medium:
+  name: "Medium"
+  baseURL: "https://medium.com/"
+  icon: "fa-medium"
 
 reddit:
   name: "Reddit"
