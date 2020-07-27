@@ -7,7 +7,7 @@ subtitle: Other endeavours that keep me busy
 ## Talks Presented
 ---
 
-#### Winners Interview on the Chai Time Data Science podcast
+#### Winners Interview on the Chai Time Data Science Podcast
 
 In this episode of the CTDS podcast, I was interviewed along with my fellow winner Ms. Vrinda Prabhu, by Sanyam Bhutani. We talk about a variety of topics like getting into kaggle, our competition submissions and our experience with the podcast.  
 
