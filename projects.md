@@ -26,10 +26,10 @@ This page contains details about projects that I have worked on. In order to hel
 <script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEBxI13Mww&#x2F;view?utm_content=DAEBxI13Mww&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">A Thematic Analysis of CTDS's Most Loved Episodes</a> by Ramshankar Yadhunath
 
-**The Project Overview :**  
+**The Project Overview :**
 This project is my official submission to the [CTDS.show contest](https://www.kaggle.com/rohanrao/chai-time-data-science/discussion/156137) held on Kaggle. The task was to unearth insights and tell an interesting/actionable story with the dataset of the [Chai Time Data Science podcasts](https://chaitimedatascience.com/). I won the contest and more details on my experience on this contest has been described in [this blog post](https://ry05.github.io/2020-07-25-making-perfect-chai/).  
 
-**The Links to the Project :**  
+**The Links to the Project :**
 The following links provide further details on my work in this project.  
 
 - [Official Submission to the Contest](https://www.kaggle.com/thedatabeast/making-perfect-chai-and-other-tales)
@@ -46,10 +46,10 @@ The following links provide further details on my work in this project.
 
 ![](https://github.com/ry05/couReco/blob/master/img/coureco-init.JPG?raw=true)
 
-**The Project Overview :**  
+**The Project Overview :**
 CouReco is a minimalistic system built on the idea to help learners navigate through the courses on Coursera, aided by a data-driven strategy. Currently, CouReco only performs the task of identifying the most similar and most dissimilar courses to a selected course that is chosen by the learner from a pool of courses relevant to the skills the learner is interested in.
 
-**The Links to the Project :**  
+**The Links to the Project :**
 The project's detailed code and related documentation can be found here
 
 - [Github Repository](https://github.com/ry05/couReco)
