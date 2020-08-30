@@ -11,6 +11,8 @@ This page contains details about projects that I have worked on. In order to hel
 - Reason for the Project's proximity to my Heart
 - Additional Materials (If applicable)
 
+> NOTE: In case there is a problem with any of the graphics displayed, a simple webpage reload will solve the problem :)
+
 ---
 
 ## Making Perfect "Chai" and Other Tales
@@ -40,6 +42,24 @@ The following links provide further details on my work in this project.
 
 ---
 
+## CouReco - Simple Course Recommendation System for Online Courses
+
+![](https://github.com/ry05/couReco/blob/master/img/coureco-init.JPG?raw=true)
+
+**The Project Overview :**  
+CouReco is a minimalistic system built on the idea to help learners navigate through the courses on Coursera, aided by a data-driven strategy. Currently, CouReco only performs the task of identifying the most similar and most dissimilar courses to a selected course that is chosen by the learner from a pool of courses relevant to the skills the learner is interested in.
+
+**The Links to the Project :**  
+The project's detailed code and related documentation can be found here
+
+- [Github Repository](https://github.com/ry05/couReco)
+
+**Reason for the Project's proximity to my Heart :**  
+- Used web scraping to create the dataset
+- Deployed locally with Streamlit
+
+---
+
 ## Leveraging Data for Social Good — A Practical Example
 
 <div
@@ -62,7 +82,7 @@ I have already covered this project in detail via an article in Medium and the c
 
 **Reason for the Project's proximity to my Heart**
 - Socially-relevant project
-- First End-to-end Data Project
+- Focus on end-to-end consideration
 - Involvement of data collection practices
 - Ethical obligation(The villagers had pinned their hopes on us to provide them with a solution to their water problems)
 
