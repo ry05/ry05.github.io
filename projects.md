@@ -54,7 +54,7 @@ The project's detailed code and related documentation can be found here
 
 - [Github Repository](https://github.com/ry05/couReco)
 
-**Reason for the Project's proximity to my Heart :**  
+**Reason for the Project's proximity to my Heart**  
 - Used web scraping to create the dataset
 - Deployed locally with Streamlit
 
