@@ -15,6 +15,15 @@ This page contains details about projects that I have worked on. In order to hel
 
 ## Making Perfect "Chai" and Other Tales
 
+<div
+ class="canva-embed"
+ data-design-id="DAEBxI13Mww"
+ data-height-ratio="0.5625"
+ style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEBxI13Mww&#x2F;view?utm_content=DAEBxI13Mww&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">A Thematic Analysis of CTDS's Most Loved Episodes</a> by Ramshankar Yadhunath
+
 **The Project Overview :**  
 This project is my official submission to the [CTDS.show contest](https://www.kaggle.com/rohanrao/chai-time-data-science/discussion/156137) held on Kaggle. The task was to unearth insights and tell an interesting/actionable story with the dataset of the [Chai Time Data Science podcasts](https://chaitimedatascience.com/). I won the contest and more details on my experience on this contest has been described in [this blog post](https://ry05.github.io/2020-07-25-making-perfect-chai/).  
 
