@@ -2,7 +2,7 @@
 layout: post
 title: My First Data-related Role
 image: /img/First-Data-Role/icon.png
-tags: [data science, at-work, data-for-good]
+tags: [data science, at-work, data-for-good, personal update]
 share-img: /img/First-Data-Role/icon.png
 ---
 
