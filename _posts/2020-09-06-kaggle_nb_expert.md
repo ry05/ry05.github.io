@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Update: I am now a Kaggle Notebooks Expert!
+title: Personal Update - I am now a Kaggle Notebooks Expert!
 image: /img/kagg_nb_expert/icon.png
 tags: [kaggle, data science, personal update]
 share-img: /img/kagg_nb_expert/icon.png
