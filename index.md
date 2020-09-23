@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: Ramshankar Yadhunath
+subtitle: MSc Student at Applied Social Data Science, LSE
 ---
 
 **Hello! My name is Ramshankar Yadhunath**. I am currently pursuing my MSc in Applied Social Data Science degree with the [London School of Economics and Political Science](https://www.lse.ac.uk/). I completed my Bachelor of Technology degree in Computer Science and Engineering from [Amrita School of Engineering, Bengaluru (ASE-B), India](https://www.amrita.edu/campus/bengaluru) in July 2020. During my undergraduate study, I have been on a merit scholarship at the University. My final year project report  "Automating Data Science for Domain Experts" included a detailed study and implementation of different aspects that could be automated in the data science ecosystem, with a special focus on semi-automated data cleaning. 
