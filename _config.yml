@@ -4,14 +4,14 @@
 title: Ramshankar Yadhunath
 
 # Short description of your site
-description: Portfolio Website
+description: Portfolio Website and Blog
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://ry05.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,10 +20,10 @@ description: Portfolio Website
 
 # List of links in the navigation bar
 navbar-links:
-  # My Data Journey: ""
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
+  Blog: "blog"
   Miscellaneous : "misc"
   Resume: "resume"
 
@@ -44,7 +44,7 @@ navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#02354D"
 footer-col: "#02354D"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#777777"
