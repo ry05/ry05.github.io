@@ -20,7 +20,6 @@ url: "https://ry05.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
   Blog: "blog"
