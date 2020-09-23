@@ -162,6 +162,9 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+
+# pagination
+paginate_path: "blog/page:num"
 paginate: 5
 
 kramdown:
