@@ -9,7 +9,7 @@ subtitle: Other endeavours that keep me busy
 
 #### Winners Interview on the Chai Time Data Science Podcast
 
-In this episode of the CTDS podcast, I was interviewed along with my fellow winner Ms. Vrinda Prabhu, by Sanyam Bhutani. We talk about a variety of topics like getting into kaggle, our competition submissions and our experience with the podcast.  
+In this episode of the CTDS podcast, I was interviewed along with my fellow CTDS contest winner Ms. Vrinda Prabhu, by Sanyam Bhutani. We talk about a variety of topics like getting into kaggle, our competition submissions and our experience with the podcast.  
 
 :speaking_head: [Interview](https://www.youtube.com/watch?v=6RrZyQoG1lY)
 
@@ -63,6 +63,6 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
 ## Articles Written on Medium
 ---
 
-All articles that I have written on Medium are available [here](https://medium.com/@yadramshankar)
+I do publish some of my writing on Medium. These articles can be found [here](https://medium.com/@yadramshankar).
 
 ---
