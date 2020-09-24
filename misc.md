@@ -49,6 +49,8 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
   - Used as supplementary material for the Deep Learning and Neural Networks course at ASE-B
   - [Click here](https://bit.ly/python-tut-face) for the Guide
   
+- [Click to view the 2018-19 Report for FACE](../documents/misc_docs/FACE_2018_19_Report.pdf)
+  
 ---
   
 #### :bar_chart: As Mentor of the Data Science SIG at ASE-B (ACM Student Chapter)
