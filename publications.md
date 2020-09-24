@@ -6,7 +6,7 @@ subtitle : Research and other allied interests
 
 ### 2020
 
-Ramshankar Yadhunath, Srivenkata Srikanth, Arvind Sudheer, Jyotsna C and Amudha J. *Detecting Surface Cracks on Buildings using Computer Vision: An Experimental Comparison of Digital Image Processing and Deep Learning*, accepted at the 3rd International Conference on Soft Computing and Signal Processing (ICSCSP 2020), Hyderabad, India. [[Presentation Slides&#8594;]](../documents/ICSSCP_2020/presentation_slides.pdf)
+Ramshankar Yadhunath, Srivenkata Srikanth, Arvind Sudheer, Jyotsna C and Amudha J. *Detecting Surface Cracks on Buildings using Computer Vision: An Experimental Comparison of Digital Image Processing and Deep Learning*, accepted at the 3rd International Conference on Soft Computing and Signal Processing (ICSCSP 2020), Hyderabad, India. [[Presentation Slides&#8594;]](../documents/ICSSCP_2020/presentation_slides.pdf) 
 
 ### 2019
 
