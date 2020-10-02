@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Projects
-subtitle: The reasons why I have a lot less time to socialize
+subtitle: Independently conducted data-science work
 ---
 
 ### How have I organized this page ?
 This page contains details about projects that I have worked on. In order to help readers get the crux of my work with a single look, I have organized each project using a self-designed template :
 - The Project Overview
 - The Links to the Project
-- Reason for the Project's proximity to my Heart
-- Additional Materials (If applicable)
+- Keywords
 
 > NOTE: In case there is a problem with any of the graphics displayed, a simple webpage reload will solve the problem :)
 
@@ -29,16 +28,13 @@ This page contains details about projects that I have worked on. In order to hel
 **The Project Overview :**
 This project is my official submission to the [CTDS.show contest](https://www.kaggle.com/rohanrao/chai-time-data-science/discussion/156137) held on Kaggle. The task was to unearth insights and tell an interesting/actionable story with the dataset of the [Chai Time Data Science podcasts](https://chaitimedatascience.com/). I won the contest and more details on my experience on this contest has been described in [this blog post](https://ry05.github.io/2020-07-25-making-perfect-chai/).  
 
-**The Links to the Project :**
+**The Links to the Project :** 
 The following links provide further details on my work in this project.  
 
 - [Official Submission to the Contest](https://www.kaggle.com/thedatabeast/making-perfect-chai-and-other-tales)
 - [Winner's Interview on the CTDS podcast](https://www.youtube.com/watch?v=6RrZyQoG1lY)
 
-**Reason for the Project's proximity to my Heart**  
-- An interesting dataset to work with
-- An interesting problem statement with lots of angles to view it from
-- First competition win
+**Keywords :**  Textual Data; Youtube Analysis; Qualitative Analysis; Storytelling
 
 ---
 
@@ -54,9 +50,7 @@ The project's detailed code and related documentation can be found here
 
 - [Github Repository](https://github.com/ry05/couReco)
 
-**Reason for the Project's proximity to my Heart**  
-- Used web scraping to create the dataset
-- Deployed locally with Streamlit
+**Keywords :**  Web Scraping; Recommender Systems; Product Building
 
 ---
 
@@ -72,7 +66,7 @@ The project's detailed code and related documentation can be found here
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADvUP7pTZo&#x2F;view?utm_content=DADvUP7pTZo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Data Science For Social Good</a> by Ramshankar Yadhunath
 
 **The Project Overview :**
-This project is more of a story than a project. It's a story of how five 2nd year undergraduates studying various disciplines came together, put the differences in their thoughts aside, followed a practical methodology and helped over 300 tenants at a rural North Indian village that was so underprivileged that it did not even have a spot for it on the state's geographical map. 
+Studied the needs of a rural, backward and socially-isolated village in Northern India in the context of their developmental goals and social aspirations. Established that "Water stress" arising from poor water management practices was a significant hindrance to the village's development. A human-centered methodology was followed to collect both qualitative as well as quantitative data and the analysis was performed using both computational techniques as well as qualitative methods. The findings were informed to the stakeholders as well as relevant policy-makers.
 
 **The Links to the Project :**
 I have already covered this project in detail via an article in Medium and the code is available on my Github account. So, I shall leave those links out here in case you wish to know more.
@@ -80,11 +74,7 @@ I have already covered this project in detail via an article in Medium and the c
 - [Medium Article](http://bit.ly/village-data-analysis)
 - [Github Repository](https://github.com/ry05/Live-in-Labs-Analysis)
 
-**Reason for the Project's proximity to my Heart**
-- Socially-relevant project
-- Focus on end-to-end consideration
-- Involvement of data collection practices
-- Ethical obligation(The villagers had pinned their hopes on us to provide them with a solution to their water problems)
+**Keywords :**  Data for Social Good; Ethnographic Study; Data-driven Decision
 
 ---
 
@@ -102,17 +92,14 @@ I have already covered this project in detail via an article in Medium and the c
 **The Project Overview :**
 The project finds relevance in analysing the prevelance of areas of high crime rates(called hotspots) in cities. Through our work, we have gone a little deeper than conventional studies of criminal activity hotspots and have established a relation that ***If crime can vary across months, across days in the week and even across hours of the very same day; it is definitely a fact that the rate of crime will not remain constant across districts within a city at any point of time. Some may face greater vulnerabilities to criminal activity than others.*** Based on this idea, we put together a predictive modelling study that helped create a model that would be able to predict the relative susceptibilities of districts in a city based on past crime records in these regions at given time points(a time point is made up of hour, day and month).  
 
-Our final work also took shape as a conference paper at CSITSS 2019 held at RVCE, Bengaluru, Karnataka, India.
+Our final work also took shape as a conference paper at CSITSS 2019 held at RVCE, Bengaluru, Karnataka, India. This paper won the "Best Paper" award at the same conference.
 
 **The Links to the Project :**
 The project's detailed code and related documentation can be found here
 
 - [Github Repository](https://github.com/ry05/Criminal-Activity-Hotspots)
 
-**Reason for the Project's proximity to my Heart**
-- Socially-relevant project work
-- First published research paper
-- Won the "Best Paper" award at CSITSS 2019
+**Keywords :** Data for Social Good; Machine Learning
 
 ---
 
@@ -136,6 +123,5 @@ The project's detailed code and related documentation can be found here
 
 - [Github Repository](https://github.com/ry05/Chocolate-Bar-Analysis)
 
-**Reason for the Project's proximity to my Heart**
-- First fully-explained EDA project
-- First shot at designing an infographic
+**Keywords :** Exploratory Data Analysis; Infographic Design
+
