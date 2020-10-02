@@ -99,4 +99,4 @@ yelp:
 kaggle:
   name: "Kaggle"
   baseURL: "https://www.kaggle.com/"
-  icon: "fab fa-kaggle"
+  icon: "fa-kaggle"
