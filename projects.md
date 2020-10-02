@@ -14,6 +14,51 @@ This page contains details about projects that I have worked on. In order to hel
 
 ---
 
+## Making every bit count - Where to invest to combat air pollution in India?
+> Identifying the cities that require immediate attention to their increasing air pollution
+
+<div
+ class="canva-embed"
+ data-design-id="DAEHX8BoyPA"
+ data-height-ratio="0.5625"
+ style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEHX8BoyPA&#x2F;view?utm_content=DAEHX8BoyPA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">AQI</a> by Ramshankar Yadhunath
+
+**The Project Overview :** 
+This project involves a study on India's growing unrest with respect to air quality issues. It takes into account quantitative data depicting AQI levels in differnet cities across the country and makes a suggestion as to which cities most require external investment to improve the quality of air and thus, reduce the detrimental effects on the population.
+
+**The Links to the Project :** 
+- [Kaggle Notebook](https://www.kaggle.com/thedatabeast/where-to-invest-to-combat-air-pollution-in-india)
+
+**Keywords :** Environmental Data Analysis; Storytelling; Metric Engineering; Communication
+
+---
+
+## Understanding the Extent of Police Abuse in the United States of America
+> Reviewing both sides of the coin with the help of publicly available data
+
+<div
+ class="canva-embed"
+ data-design-id="DAEGVURozoQ"
+ data-height-ratio="0.5625"
+ style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEGVURozoQ&#x2F;view?utm_content=DAEGVURozoQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Methodology - US Police Abuse Analysis</a> by Ramshankar Yadhunath
+
+**The Project Overview :**
+Policing is no-doubt a difficult job. But, its also something that provides **too much power into the hands of a few individuals**. In such a social setup, it becomes difficult to hold people with authority accountable for their actions. The issue of racial bias in the policing system in US has been discussed widely and largely across nations. However, most views are single-dimensional. In this project, I make an attempt to provide different perspectives of the problem.   
+
+**The Links to the Project :** 
+- [Kaggle Notebook](https://www.kaggle.com/thedatabeast/understanding-the-extent-of-police-abuse-in-the-us)
+- [Methodology Explanation](https://ry05.github.io/2020-08-30-us-police-abuse/)
+
+**Keywords :**  Data for Social Good; Storytelling; Unconventional Thought
+
+---
+
 ## Making Perfect "Chai" and Other Tales
 
 <div
