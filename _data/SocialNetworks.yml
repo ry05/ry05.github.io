@@ -95,3 +95,8 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+  
+kaggle:
+  name: "Kaggle"
+  baseURL: "https://www.kaggle.com/"
+  icon: "fab fa-kaggle"
