@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Miscellaneous
-subtitle: Other endeavours that keep me busy
+title: Community
+subtitle: My presence in the Data Science Community
 ---
 
 ## Talks Presented
