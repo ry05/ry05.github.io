@@ -33,7 +33,17 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
 
 ---
 
-## Work in Building the Data Science Community at College
+## Work in Building the Data Science Community at LSE
+---
+
+#### :bar_chart: As Co-Head of Education at the LSE Data Science Society
+- Planned, organized and launched the month-long [DataDecember Initiative](https://dsatlse.github.io/DataDecember/)
+  - Curated 20 articles on different data science concepts
+  - Collaborated with a team of 10
+
+---
+
+## Work in Building the Data Science Community at ASE-B
 ---
 
 #### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
