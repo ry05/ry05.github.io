@@ -5,7 +5,7 @@ subtitle:
 
 ---
 
-<img src="C:\Users\Ramshankar\Dropbox\My PC (LAPTOP-67V4712P)\Desktop\ry05.github.io\img\66dod.png" style="zoom: 25%;" />
+![](img/66dod.png)
 
 This page contains my daily bit of data science learning for [#66DaysofData](https://twitter.com/hashtag/66DaysofData?src=hashtag_click) from January 5th, 2021.
 
