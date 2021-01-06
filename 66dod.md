@@ -25,7 +25,7 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
    - Official Website: [Playing Numbers - Sports Analytics Content for those Interested in Playing the Numbers](https://www.playingnumbers.com/)
    - Conferences and Blogs
      - [MIT Sloan Sports Analytics Conference - Sports Analytics, Business, & Technology. (sloansportsconference.com)](https://www.sloansportsconference.com/)
-     - [The Harvard Sports Analysis Collective | The official blog of the Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/)
+     - [The Harvard Sports Analysis Collective - The official blog of the Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/)
    - Ken Jee's Tips to get a job in Sports Analytics
      - Read atleast 2-3 articles per day
      - Learn skills and tools
