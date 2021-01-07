@@ -46,3 +46,11 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 3 - 7th January, 2021
 
+1. Worked with the [rtweet](https://github.com/ropensci/rtweet) package to collect tweets from twitter
+   - Used this to work on my winter assessment
+   - Resource used: [https://mkearney.github.io/nicar_tworkshop](https://t.co/rMF3dLunzL?amp=1)
+
+---
+
+## Day 4 - 8th January, 2021
+
