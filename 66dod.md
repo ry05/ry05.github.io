@@ -11,8 +11,8 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 1 - 5th January, 2021
 
-1. Read all articles in the [**#DataDecember Initiative**](https://dsatlse.github.io/DataDecember/)
-2. Completed Module 1 of [**BCG Open-Access Data Science & Advanced Analytics Virtual Experience Program**]([Learn from top companies and set yourself apart (theforage.com)](https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?show-onboard=1))
+1. Read all articles in the [#DataDecember Initiative](https://dsatlse.github.io/DataDecember/)
+2. Completed Module 1 of [BCG Open-Access Data Science & Advanced Analytics Virtual Experience Program]([Learn from top companies and set yourself apart (theforage.com)](https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?show-onboard=1))
    - Designed a data science problem based on a given hypothesis
 
 ---
@@ -54,3 +54,34 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 4 - 8th January, 2021
 
+1. Had a perfunctory read over the winning solutions to the [Hateful Memes Challenge hosted on DrivenData](https://www.drivendata.co/blog/hateful-memes-winners/)
+2. Listed out **potential projects** that I can work on during the next few weeks as a part of #66DaysofData
+   - Why?
+     - It would be useless to do #66DaysofData if I don't put it to practical use
+     - Will help me improve my portfolio
+   - What types of projects?
+     - The plan is to work on projects that involve at least one of the following concepts
+       - Intensive data cleaning
+       - Storytelling with data
+       - Predictive analytics - Tabular data
+       - Natural Language Processing
+       - Computer Vision
+       - SQL
+       - End-to-end deployment or Building an ML system
+
+---
+
+## Day 5 - 9th January, 2021
+
+1. Brushed up SQL Basics
+   - [SQL Cheatsheet](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-queries/cheatsheet)
+   - [SQL Order of Operations](https://learnsql.com/blog/sql-order-of-operations/)
+   - What project can I do to ensure I understand SQL better?
+     - A web app that uses SQL? (But, I don't like web development much)
+     - A Python - SQL application? (I do not know what this means, **should read more**)
+   - What hands on experience do I have already?
+     - MY470 lectures at my MSc
+
+---
+
+## Day 6 - 10th January, 2021
