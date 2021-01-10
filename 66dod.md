@@ -85,3 +85,12 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 ---
 
 ## Day 6 - 10th January, 2021
+
+1. Followed through on my SQL journey from yesterday with some hands on usage of the [RSQLite](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html) package
+   1. But, the question now is how can I use this new R + SQL skill to make something useful?
+2. Also, watched [The most powerful idea in data science - YouTube](https://www.youtube.com/watch?v=e9KJ3kd80fQ) by Cassie Kozyrkov
+
+---
+
+## Day 7 - 11th January, 2021
+
