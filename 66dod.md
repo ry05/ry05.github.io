@@ -87,10 +87,33 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 ## Day 6 - 10th January, 2021
 
 1. Followed through on my SQL journey from yesterday with some hands on usage of the [RSQLite](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html) package
-   1. But, the question now is how can I use this new R + SQL skill to make something useful?
+   - But, the question now is how can I use this new R + SQL skill to make something useful?
 2. Also, watched [The most powerful idea in data science - YouTube](https://www.youtube.com/watch?v=e9KJ3kd80fQ) by Cassie Kozyrkov
 
 ---
 
 ## Day 7 - 11th January, 2021
+
+1. Performed and compared sentiment analysis outputs with the tidytext package in R and the sentimentr package
+
+   - [https://www.tidytextmining.com/tidytext.html](https://www.tidytextmining.com/tidytext.html)
+
+   - [trinker/sentimentr: Dictionary based sentiment analysis that considers valence shifters (github.com)](https://github.com/trinker/sentimentr)
+2. Put some thought into using R + SQL for a project - Fixed on creating a dummy ETL system
+
+   - Main idea : Create a basic web app that can be used by the animal shelter where I interned
+   - Data : Create dummy data based on the original data the shelter collects
+     - Store in excel sheets as that's what the shelter does
+   - Write a web app in R that can load the dataset directly and deliver some visualizations
+   - Convert the results of the app into a PDF report and save it
+     - Can be used to quickly generate monthly reports
+     - Also give an option for the user to enter some other manual text or pointers into the report
+   - Resources
+     - [Chapter 9 Interfacing with databases in R | Data Science with R: A Resource Compendium (bookdown.org)](https://bookdown.org/martin_monkman/DataScienceResources_book/interfacing-with-databases-in-r.html)
+     - [Extract, transform, load - Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+     - [Web Apps in R: Building your First Web Application in R | Shiny Tutorial Ep 1 - YouTube](https://www.youtube.com/watch?v=tfN10IUX9Lo)
+
+---
+
+## Day 8 - 12th January, 2021
 
