@@ -115,3 +115,22 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 8 - 12th January, 2021
 
+1. Spent time going over my dissertation proposal and the data I will need to collect to make it happen
+
+   - What data do I need?
+     - Qualitative?
+     - Quantitative?
+   - How will I collect the data?
+     - Use secondary resources?
+     - Collect it first hand?
+       - With human interaction?
+       - Without human interaction?
+   - How will I store the data?
+     - Local system?
+     - Cloud?
+     - Documentation?
+   - What ethical considerations must I be aware of?
+
+   ---
+
+   
