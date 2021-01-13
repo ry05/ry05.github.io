@@ -131,6 +131,12 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
      - Documentation?
    - What ethical considerations must I be aware of?
 
-   ---
+---
 
-   
+## Day 9 - 13th January, 2021
+
+1. Read the article - https://hackernoon.com/going-from-not-being-able-to-code-to-deep-learning-hero-2ou34fh by [Radek Osmulski](https://twitter.com/radekosmulski)
+2. Went in-depth into R Markdown to make a decent final report for my winter assignment - [R Markdown Cookbook (bookdown.org)](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+---
+
