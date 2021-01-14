@@ -140,3 +140,10 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ---
 
+## Day 10 - 14th January, 2021
+
+1. Initiated work on https://www.widsconference.org/datathon.html
+2. Also, I have secretly fallen in love with #R's pipe operator ;)
+
+---
+
