@@ -147,3 +147,12 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ---
 
+## Day 11 - 15th January, 2021
+
+1. Continued work on the WiDS 2021 Datathon
+2. Worked on the draft of an article summarizing my favourite tips on working on a data analytics project
+
+---
+
+## Day 12 - 16th January, 2021
+
