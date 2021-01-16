@@ -156,3 +156,10 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 12 - 16th January, 2021
 
+1. Published an article on @TDataScience  summarizing my favorite tips to create a good Data Analytics  project - https://towardsdatascience.com/how-to-make-a-data-analytics-project-that-people-want-to-read-47caea306570
+2. Went through a Tableau crash course tutorial - https://www.youtube.com/watch?v=TPMlZxRRaBQ
+
+---
+
+## Day 13 - 17th January, 2021
+
