@@ -163,3 +163,13 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 13 - 17th January, 2021
 
+1. Read through Jeremey Howard’s and team’s Drivetrain approach - [Designing great data products – O’Reilly](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
+   - Define your objective
+   - Understand the inputs that you can control - Levers
+   - Identify the data you need to collect
+   - Modelling
+
+---
+
+## Day 14 - 18th January, 2021
+
