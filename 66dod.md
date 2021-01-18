@@ -173,3 +173,15 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 14 - 18th January, 2021
 
+1. Made my first WiDS 2021 challenge kernel public - [https://kaggle.com/thedatabeast/wids-2021-tutorial…](https://t.co/WwetpFfSpQ?amp=1) 
+   - Resources used
+     - https://machinelearningmastery.com/what-is-data-preparation-in-machine-learning/
+     - https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python
+     - https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+2. While doing so, brushed up on my rusty skills in data preparation for modelling tasks
+3. Tried the lazypredict package to compare models, but hit memory issues
+
+---
+
+## Day 15  - 19th January, 2021
+
