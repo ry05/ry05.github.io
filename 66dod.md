@@ -185,3 +185,11 @@ This page contains my daily bit of data science learning for [#66DaysofData](htt
 
 ## Day 15  - 19th January, 2021
 
+Spent 15 mins to chalk out a rough plan for my first project under the #66DaysofData initiative. The idea is to build a simple image classifier and deploy it as a web application.
+
+Hope to start work on it soon and complete it by mid-February.
+
+---
+
+## Day 16 - 20th January, 2021
+
