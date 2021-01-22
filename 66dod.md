@@ -193,3 +193,18 @@ Hope to start work on it soon and complete it by mid-February.
 
 ## Day 16 - 20th January, 2021
 
+1. Dabbled with the [modin package](https://github.com/modin-project/modin) - Works faster than pandas, but works exactly like pandas
+2. Read the first 2 chapters of *Introduction to Statistical Learning*
+
+---
+
+## Day 17 - 21st January, 2021
+
+Took a break from any kind of data science learning today.
+
+Instead, I went ahead and dedicated the day for my grad school assignment. Will continue to work on this till I submit it after which I shall return to #66DaysofData
+
+---
+
+## Day 18 - 22nd January, 2021
+
