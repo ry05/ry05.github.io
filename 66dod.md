@@ -206,5 +206,15 @@ Instead, I went ahead and dedicated the day for my grad school assignment. Will 
 
 ---
 
-## Day 18 - 22nd January, 2021
+## Day 18 - 25th January, 2021
+
+Resumed things after my little break.
+
+Kicked things of with working through the @fastdotai book's second chapter. Fired up a kernel with under 10 lines of code - https://www.kaggle.com/thedatabeast/fast-ai-resnet18-2-epochs-99-9-accuracy
+
+Not much, but surely a way to start my fast.ai journey!
+
+---
+
+## Day 19 - 26th January
 
