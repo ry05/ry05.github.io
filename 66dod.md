@@ -218,3 +218,26 @@ Not much, but surely a way to start my fast.ai journey!
 
 ## Day 19 - 26th January
 
+1. Heard the [Decision Skills Q&A by Cassie Kozyrkov and Jenny Brown](https://www.youtube.com/watch?v=NTJjluXIN_8)
+   - Making s decision takes effort
+     - Decision making requires people to be motivated
+     - Requires collaboration
+     - Important to delegate decision making appropriately
+     - Structuring, coordinating and assigning is important to make good decisions
+   - It is time society begins to treat "decision-making" as a skill just like engineering or singing
+   - Software and decision-making
+     - Software can aid in decision making
+     - It helps transcend the limitations of the human brain
+     - But, software cannot replace the human in the decision-making process
+     - A "one-size fits all" approach will not work in decision making software
+   - More data is not always better. It has to be more "good" data
+   - Decision making in its purest sense is about processing information
+   - The most important question data scientists need to be asking stakeholders
+     - "What would it take to change your mind?"
+     - Forces the stakeholders to think what exactly they want
+2. Dived into the creation of pipelines in scikit-learn today - [6.1. Pipelines and composite estimators — scikit-learn 0.24.1 documentation (scikit-learn.org)](https://scikit-learn.org/stable/modules/compose.html)
+
+---
+
+## Day 20 - 27th January
+
