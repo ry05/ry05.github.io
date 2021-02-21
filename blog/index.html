@@ -4,7 +4,11 @@ title: Blog
 subtitle: Thoughts and Independently-conducted Research with a Data-driven Focus
 ---
 
-<button onclick="window.location.href='https://ry05.github.io/tags/';">Order by Tags</button>
+<div style="display: table-cell; vertical-align: middle; text-align: center;">
+    <button onclick="window.location.href='https://ry05.github.io/tags/'; type="button" style="text-align: center;" class="btn btn-info">
+       Order by Tags
+    </button>
+</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
