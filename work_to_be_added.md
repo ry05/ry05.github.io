@@ -6,6 +6,7 @@
 - 5 Days of Skill Building
 - Articles on Medium (Also, maybe a link to your Medium Profile)
 - 66 Days of Data
+- Notes (of books that I read)
 
 # Sections to improve
 - Add functionality to allow visitors to order your articles by tags [Done]
