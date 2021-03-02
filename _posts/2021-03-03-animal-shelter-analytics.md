@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Saving Animal Lives with Data: An Introduction to Animal Shelter Analytics
+title: Saving Animal Lives with Data - An Introduction to Animal Shelter Analytics
 image: ../img/animal-shelter-analytics/icon.png
-tags: [data science, data analytics, data for social good]
+tags: [at-work, data for good]
 share-img: ../img/animal-shelter-analytics/icon.png
 ---
 
