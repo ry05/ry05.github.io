@@ -219,7 +219,7 @@ Not much, but surely a way to start my fast.ai journey!
 ## Day 19 - 26th January
 
 1. Heard the [Decision Skills Q&A by Cassie Kozyrkov and Jenny Brown](https://www.youtube.com/watch?v=NTJjluXIN_8)
-   - Making s decision takes effort
+   - Making a decision takes effort
      - Decision making requires people to be motivated
      - Requires collaboration
      - Important to delegate decision making appropriately
