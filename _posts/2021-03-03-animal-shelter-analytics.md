@@ -4,7 +4,6 @@ title: Saving Animal Lives with Data: An Introduction to Animal Shelter Analytic
 image: /img/animal-shelter-analytics/icon.png
 tags: [data science, data analytics, data for social good]
 share-img: /img/animal-shelter-analytics/icon.png
-
 ---
 
 It is currently estimated that there are about [5,000 independently-run animal shelters in the world](https://en.wikipedia.org/wiki/Animal_shelter). I personally feel there might be more. The efficiency of operations at these shelters depend largely on their ability to satisfy their main objective, usually to [optimize select metrics](https://www.vet.cornell.edu/hospitals/maddies-shelter-medicine-program/shelters/shelter-resources/every-nose-counts-using-metrics-animal-shelters). And in order to calculate these metrics, there is a requirement to **collect, maintain and analyze data**. 
