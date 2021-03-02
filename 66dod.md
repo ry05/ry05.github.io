@@ -239,5 +239,9 @@ Not much, but surely a way to start my fast.ai journey!
 
 ---
 
-## Day 20 - 27th January
+## Break
+
+I have been forced to take a break from 66 Days of Data due to health issues. I will be resuming the campaign soon after revamping my plan for the same.
+
+---
 
