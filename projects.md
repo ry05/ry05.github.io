@@ -30,7 +30,7 @@ In this project, I present an attempt to explore the Kaggle survey responses of 
 
 > Identifying the cities that require immediate attention to their increasing air pollution
 
-<img src="img/project_graphics/aqi.png">
+![](img/project_graphics/aqi.png)
 
 **The Project Overview :** 
 This project involves a study on India's growing unrest with respect to air quality issues. It takes into account quantitative data depicting AQI levels in differnet cities across the country and makes a suggestion as to which cities most require external investment to improve the quality of air and thus, reduce the detrimental effects on the population.
