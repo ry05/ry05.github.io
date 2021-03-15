@@ -13,7 +13,8 @@
 - Reduce the quantity of tags; be more specific
 - Update the status of 66 Days of Data [Done]
 - Make the Home Page more attractive
-- Better presentation of project page
+- Better presentation of project page [Done]
+- Work on Community page
 
 
 
