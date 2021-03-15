@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Ramshankar Yadhunath
-subtitle: MSc Student in Applied Social Data Science, LSE
+title: Hi! I am Ramshankar.
 ---
 
-**Hello! My name is Ramshankar Yadhunath**. I am currently pursuing my MSc in Applied Social Data Science degree with the [London School of Economics and Political Science](https://www.lse.ac.uk/). I completed my Bachelor of Technology degree in Computer Science and Engineering from [Amrita School of Engineering, Bengaluru (ASE-B), India](https://www.amrita.edu/campus/bengaluru) in July 2020. During my undergraduate study, I have been on a merit scholarship at the University. My final year project report  "Automating Data Science for Domain Experts" included a detailed study and implementation of different aspects that could be automated in the data science ecosystem, with a special focus on semi-automated data cleaning. 
+Welcome to my online space. I study Applied Social Data Science at the London School of Economics and Political Science. I am deeply passionate about data-driven decision making and the use of data for good.
 
-My interests are sharply inclined towards the use of data to help organizations make better decisions. I have been the team lead on the [Live in Labs Program](https://www.amrita.edu/international/live-in-labs) at ASE-B and worked on providing a rural settlement In Northern India better opportunities to upscale their living standards with a focus on the village's water woes. The project involved conducting participatory rural appraisal, interviews, qualitative analysis and human-centered design to formulate a solution. This project was funded by the Live in Labs parent team at the University.
+In the past, I have led a team conducting an [on-site ethnographic study of water management issues in a North-Indian village](https://towardsdatascience.com/leveraging-data-for-social-good-a-practical-example-adac053bdeaa). I have also volunteered at People for Animals Wildlife Hospital, an urban wildlife shelter in Bengaluru, India where [I introduced the concept of animal shelter analytics](https://towardsdatascience.com/saving-animal-lives-with-data-d815c6e854eb). 
 
-I have volunteered at the [People for Animals Wildlife Hospital, Bengaluru, India](https://peopleforanimalsbangalore.org/) to help the organization make better sense of its animal shelter data in order to save more animal lives.
+I enjoy working with data and including the outputs of analysis into the decision-making process of organizations. Apart from talking with data, I also love talking to people as I believe the success of any project depends on how many different ideas were considered while building it.
 
-In my free time, you can find me on Kaggle. I am a [Kaggle Notebooks Expert](https://www.kaggle.com/thedatabeast) and have won the Chai Time Data Science podcast contest on Kaggle. Blogging is another activity I enjoy and here, I focus on trying to justify unpopular opinions and unmasking overlooked ideas in socially-relevant themes with the use of data.
+Want to have a quick chat? Connect with me on [LinkedIn](https://www.linkedin.com/in/ramshankar-yadhunath/).
 
 
 
