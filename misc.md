@@ -39,6 +39,9 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
 :link: [Slides](https://www.canva.com/design/DAEAV3D_iAU/w2CxGdPd_uSg5N0Rkb45og/view)
 
 ## Work in Building the Data Science Community at LSE
+
+---
+
 #### :bar_chart: As Co-Head of Education at the LSE Data Science Society
 - Analyzing survey data to understand which workshops to conduct
   - Analyzed 60 responses to get familiar with what students at LSE expected of the society's workshops
@@ -53,6 +56,9 @@ In this talk, my team and I presented our project, DataSwissKnife(A tool to help
   - Compiled a set of [useful resources](https://www.notion.so/Welcome-to-the-Data-Chai-Tapri-38a895f31f704c1897cfb56dbc902979) for first-time participants
 
 ## Work in Building the Data Science Community at ASE-B
+
+---
+
 #### :computer: As Secretary of the CSE Departmental Forum at ASE-B (FACE)
 - Organized a data-driven wing within the forum that was responsible for collecting, managing and analysing data of active participants in the forum's activities
   - Was able to improve average participant turnout per event from the previous year by 55%
