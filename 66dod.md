@@ -245,3 +245,12 @@ I have been forced to take a break from 66 Days of Data due to health issues. I 
 
 ---
 
+## Day 20 - 17th March, 2021
+
+1. Completed SQL Basics from Alex the Analyst's Youtube Channel
+2. Obtained the 10 days of statistics badge from Hackerrank
+
+---
+
+
+
